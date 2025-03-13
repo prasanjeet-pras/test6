@@ -9,6 +9,8 @@ public class Test6Application {
 	public static void main(String[] args) {
         int x=100;
 		string = "mike";
+
+		boolean isPresent=false;
 		SpringApplication.run(Test6Application.class, args);
 	}
 
