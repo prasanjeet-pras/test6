@@ -7,8 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test6Application {
 
 	public static void main(String[] args) {
-        int x=100;
+                int x=100;
 		string = "mike";
+		int y=200;
 		SpringApplication.run(Test6Application.class, args);
 	}
 
